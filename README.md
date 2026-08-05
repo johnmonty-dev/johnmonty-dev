@@ -1,16 +1,75 @@
-## Hi there 👋
+# João Vitor 👨🏻‍💻
 
-<!--
-**johnmonty-dev/johnmonty-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Analista de Dados'**
 
-Here are some ideas to get you started:
+Me chamo João Vitor, tenho 21 anos e sou natural de Manaus.
+Conclui o ensino superior na Martha Facão, com o curso de análise e desenvolvimento de sistemas. Tenho um grande interesse na área de tecnologia e pretendo seguir carreira na área de dados. Interajo bastante no meu perfil do "[Linkedin](www.linkedin.com/in/joao-vitor-honorato)"para ficar por dentro de tudo que esta acontecendo no mercado tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Linguagens e Tecnologias
+
+  <img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  <img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img
+    align="left"
+    alt="AWS"
+    title="AWS"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+ <img
+    align="left"
+    alt="Numpy"
+    title="Numpy"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+
+ <img
+    align="left"
+    alt="Pandas"
+    title="Pandas"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img
+    align="left"
+    alt="VSCode"
+    title="VSCode"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+
+   
+
+          
+
+             
+          
+
