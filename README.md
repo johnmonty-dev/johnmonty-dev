@@ -72,13 +72,6 @@ Conclui o ensino superior na Martha Facão, com o curso de análise e desenvolvi
     width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-
----- 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmonty-dev&theme=jolly&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnmonty-dev&theme=jolly&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnmonty-dev&theme=jolly&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmonty-dev&theme=jolly&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnmonty-dev&theme=jolly&animation=load&utcOffset=0)
    
 
