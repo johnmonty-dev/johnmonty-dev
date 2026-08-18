@@ -73,6 +73,13 @@ Me chamo João Vitor, recentemente conclui o ensino superior no curso de anális
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmonty-dev&theme=jolly&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnmonty-dev&theme=jolly&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnmonty-dev&theme=jolly&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmonty-dev&theme=jolly&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnmonty-dev&theme=jolly&animation=load&utcOffset=0)
+
           
 
              
