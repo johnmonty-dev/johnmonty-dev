@@ -2,8 +2,7 @@
 
 **Analista de Dados**
 
-Me chamo João Vitor, tenho 21 anos e sou natural de Manaus.
-Conclui o ensino superior na Martha Facão, com o curso de análise e desenvolvimento de sistemas. Tenho um grande interesse na área de tecnologia e pretendo seguir carreira na área de dados. Interajo bastante no meu perfil do "[Linkedin](https://www.linkedin.com/in/joao-vitor-honorato)"para ficar por dentro de tudo que esta acontecendo no mercado tech.
+Me chamo João Vitor, recentemente conclui o ensino superior no curso de análise e desenvolvimento de sistemas. Tenho um grande interesse na área de tecnologia e pretendo seguir carreira na área de dados, como engenharia de dados ou ciência de dados. Caso queira entrar em contato, aqui o meu perfil no "[Linkedin](https://www.linkedin.com/in/joao-vitor-honorato)".
 
 ---
 
