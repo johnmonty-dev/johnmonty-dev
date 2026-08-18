@@ -72,9 +72,10 @@ Me chamo João Vitor, recentemente conclui o ensino superior no curso de anális
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
+<br/>
+<br/>
 
-
-
+# Estatísticas do GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmonty-dev&theme=aura&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnmonty-dev&theme=aura&animation=load)
